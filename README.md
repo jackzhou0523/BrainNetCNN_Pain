@@ -39,11 +39,11 @@ This folder contains code files related to pain analysis.
 * `utils.py`
   Contains various utility functions.
 
-## model
+## Model
 
 Saving different models separately as CPU, GPU, and dictionary.
 
-## plot
+## Plot
 
 Recording different histograms for different models.
 
